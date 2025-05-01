@@ -5,7 +5,7 @@ This program performs a local remap on the path HOPSTR_old if a probe to TTL tha
 
 ## Install
 
-RemapRoute requires *libnet-dev*, *libnlopt-dev* and *libpcap-dev* libs. Once you install the required libs, run:
+RemapRoute requires *libnet-dev* and *libpcap-dev* libs. Once you install the required libs, run:
 
 ```
 ./build_all.sh
