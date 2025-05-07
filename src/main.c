@@ -51,6 +51,5 @@ int main(int argc, char** argv) /* {{{ */
 	opts_destroy(opts);
 	out_usage:
 	opts_usage(argc, argv);
-	log_destroy();
 	exit(EXIT_FAILURE);
 } /* }}} */
